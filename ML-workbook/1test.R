@@ -1,5 +1,4 @@
 # setwd("~/datasets/titanic")
-https://raw.githubusercontent.com/ShahalAbdullah/mltraining/master/ML-workbook/train.csv
 
 
 train <- read.csv('https://raw.githubusercontent.com/ShahalAbdullah/mltraining/master/ML-workbook/train.csv')
